@@ -2,8 +2,12 @@ Fonctionnalité Sprint 1 (09/10/24): jusqu'au 23/10/24:
 
 * Pouvoir déplacer um personnage sur um plateau vide grâce aux fleches directionnlles:
 
-1. Implémenter le plateau avec des limites définies où le personnage sera déplacé.
+1. ~~Implémenter~~ le plateau avec des limites définies où le personnage sera déplacé.
 
-2. Implémenter le personnage qui sera déplacé sur le plateau dans une position initiale (coordonnées sur le plateau) et la capacité de se déplacer.
+HC: c'est-à-dire? on peut le charger? le dessiner?
+
+2. ~~Implémenter~~  le personnage qui sera déplacé sur le plateau dans une position initiale (coordonnées sur le plateau) et la capacité de se déplacer ** en utilisant les flèches directionnelles (HC) **.
 
 3. Implémenter le système pour capturer les entrées du clavier (les flèches directionnelles) et déplacer le personnage.
+
+HC: pas une fonctionnalité, c'est une tâche concernant la fonctionnalité 2.
